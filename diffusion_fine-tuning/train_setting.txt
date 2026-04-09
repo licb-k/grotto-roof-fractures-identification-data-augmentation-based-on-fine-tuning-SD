@@ -1,6 +1,6 @@
 cd Finetuningnet
 set MODEL_DIR="runwayml/stable-diffusion-v1-5"
-set OUTPUT_DIR="D:/lcb/diffusion1/model2"
+set OUTPUT_DIR="path/to/output"
 accelerate launch train_Finetuningnet.py ^
  --pretrained_model_name_or_path=%MODEL_DIR% ^
  --output_dir=%OUTPUT_DIR% ^
