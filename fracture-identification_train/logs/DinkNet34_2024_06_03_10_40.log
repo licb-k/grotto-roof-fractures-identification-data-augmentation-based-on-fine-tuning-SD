@@ -1,0 +1,21 @@
+********
+epoch: 1     time: 25
+train_loss: 1.1807715588602525
+SHAPE: (640, 640)
+********
+epoch: 2     time: 51
+train_loss: 0.9841086395855607
+SHAPE: (640, 640)
+********
+epoch: 3     time: 76
+train_loss: 0.9480749648192833
+SHAPE: (640, 640)
+********
+epoch: 4     time: 102
+train_loss: 0.9121845800301124
+SHAPE: (640, 640)
+********
+epoch: 5     time: 128
+train_loss: 0.8715929249237324
+SHAPE: (640, 640)
+Finish!

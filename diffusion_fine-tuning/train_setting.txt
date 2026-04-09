@@ -1,0 +1,12 @@
+cd Finetuningnet
+set MODEL_DIR="runwayml/stable-diffusion-v1-5"
+set OUTPUT_DIR="D:/lcb/diffusion1/model2"
+accelerate launch train_Finetuningnet.py ^
+ --pretrained_model_name_or_path=%MODEL_DIR% ^
+ --output_dir=%OUTPUT_DIR% ^
+ --dataset_name="../data1/" ^
+ --resolution=640 ^
+ --num_train_epochs=27 ^
+ --learning_rate=2e-6 ^
+ --train_batch_size=2 ^
+ --gradient_accumulation_steps=1

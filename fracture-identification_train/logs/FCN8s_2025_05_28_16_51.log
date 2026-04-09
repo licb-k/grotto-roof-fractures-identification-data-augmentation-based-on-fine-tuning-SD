@@ -1,0 +1,209 @@
+********
+epoch: 1     time: 102
+train_loss: 1.2235317497253417
+SHAPE: (640, 640)
+********
+epoch: 2     time: 217
+train_loss: 0.9344336271286011
+SHAPE: (640, 640)
+********
+epoch: 3     time: 332
+train_loss: 0.8626729913949966
+SHAPE: (640, 640)
+********
+epoch: 4     time: 448
+train_loss: 0.8274797790050507
+SHAPE: (640, 640)
+********
+epoch: 5     time: 563
+train_loss: 0.8010366048812866
+SHAPE: (640, 640)
+********
+epoch: 6     time: 678
+train_loss: 0.7892114540338516
+SHAPE: (640, 640)
+********
+epoch: 7     time: 793
+train_loss: 0.7805690635442734
+SHAPE: (640, 640)
+********
+epoch: 8     time: 909
+train_loss: 0.765972072005272
+SHAPE: (640, 640)
+********
+epoch: 9     time: 1024
+train_loss: 0.7587985581159592
+SHAPE: (640, 640)
+********
+epoch: 10     time: 1138
+train_loss: 0.7551112444996834
+SHAPE: (640, 640)
+********
+epoch: 11     time: 1253
+train_loss: 0.750407620549202
+SHAPE: (640, 640)
+********
+epoch: 12     time: 1369
+train_loss: 0.7506756691336631
+SHAPE: (640, 640)
+********
+epoch: 13     time: 1483
+train_loss: 0.7405489033460617
+SHAPE: (640, 640)
+********
+epoch: 14     time: 1598
+train_loss: 0.7343259734511376
+SHAPE: (640, 640)
+********
+epoch: 15     time: 1714
+train_loss: 0.7327191681861878
+SHAPE: (640, 640)
+********
+epoch: 16     time: 1830
+train_loss: 0.7329433381557464
+SHAPE: (640, 640)
+********
+epoch: 17     time: 1939
+train_loss: 0.7248990696668625
+SHAPE: (640, 640)
+********
+epoch: 18     time: 2054
+train_loss: 0.725773624420166
+SHAPE: (640, 640)
+********
+epoch: 19     time: 2168
+train_loss: 0.724467548251152
+SHAPE: (640, 640)
+********
+epoch: 20     time: 2284
+train_loss: 0.7184471930861474
+SHAPE: (640, 640)
+********
+epoch: 21     time: 2394
+train_loss: 0.7126838241219521
+SHAPE: (640, 640)
+********
+epoch: 22     time: 2510
+train_loss: 0.7173624365329743
+SHAPE: (640, 640)
+********
+epoch: 23     time: 2621
+train_loss: 0.7151670538783074
+SHAPE: (640, 640)
+********
+epoch: 24     time: 2734
+train_loss: 0.7184339058995247
+SHAPE: (640, 640)
+********
+epoch: 25     time: 2846
+train_loss: 0.7135875083208084
+SHAPE: (640, 640)
+update learning rate: 0.000100 -> 0.000020
+********
+epoch: 26     time: 2959
+train_loss: 0.6955779528617859
+SHAPE: (640, 640)
+********
+epoch: 27     time: 3072
+train_loss: 0.6942590300440789
+SHAPE: (640, 640)
+********
+epoch: 28     time: 3185
+train_loss: 0.6963115901350975
+SHAPE: (640, 640)
+********
+epoch: 29     time: 3298
+train_loss: 0.6880019926428795
+SHAPE: (640, 640)
+********
+epoch: 30     time: 3411
+train_loss: 0.6877160388231277
+SHAPE: (640, 640)
+********
+epoch: 31     time: 3524
+train_loss: 0.6859814997911453
+SHAPE: (640, 640)
+********
+epoch: 32     time: 3638
+train_loss: 0.6866563696861268
+SHAPE: (640, 640)
+********
+epoch: 33     time: 3750
+train_loss: 0.6852883400321007
+SHAPE: (640, 640)
+********
+epoch: 34     time: 3864
+train_loss: 0.6784276165366173
+SHAPE: (640, 640)
+********
+epoch: 35     time: 3976
+train_loss: 0.6808451833724976
+SHAPE: (640, 640)
+********
+epoch: 36     time: 4088
+train_loss: 0.6823964731693268
+SHAPE: (640, 640)
+********
+epoch: 37     time: 4200
+train_loss: 0.6805022322535514
+SHAPE: (640, 640)
+********
+epoch: 38     time: 4313
+train_loss: 0.6790519874691964
+SHAPE: (640, 640)
+update learning rate: 0.000020 -> 0.000004
+********
+epoch: 39     time: 4426
+train_loss: 0.6779177055358887
+SHAPE: (640, 640)
+********
+epoch: 40     time: 4540
+train_loss: 0.6791141679286957
+SHAPE: (640, 640)
+********
+epoch: 41     time: 4652
+train_loss: 0.6799011579751968
+SHAPE: (640, 640)
+********
+epoch: 42     time: 4765
+train_loss: 0.678701259970665
+SHAPE: (640, 640)
+********
+epoch: 43     time: 4877
+train_loss: 0.6732445061802864
+SHAPE: (640, 640)
+********
+epoch: 44     time: 4991
+train_loss: 0.6767083104848862
+SHAPE: (640, 640)
+********
+epoch: 45     time: 5102
+train_loss: 0.669717006623745
+SHAPE: (640, 640)
+********
+epoch: 46     time: 5216
+train_loss: 0.6732536725401879
+SHAPE: (640, 640)
+********
+epoch: 47     time: 5329
+train_loss: 0.6731165643334389
+SHAPE: (640, 640)
+********
+epoch: 48     time: 5441
+train_loss: 0.6749702303409576
+SHAPE: (640, 640)
+********
+epoch: 49     time: 5552
+train_loss: 0.6727194701433181
+SHAPE: (640, 640)
+update learning rate: 0.000004 -> 0.000001
+********
+epoch: 50     time: 5665
+train_loss: 0.6778098699450493
+SHAPE: (640, 640)
+update learning rate: 0.000001 -> 0.000000
+********
+epoch: 51     time: 5778
+train_loss: 0.6755730315446854
+SHAPE: (640, 640)
+Finish!

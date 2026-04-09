@@ -1,0 +1,4002 @@
+[
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5000.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5001.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5002.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5003.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5004.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5005.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5006.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5008.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5009.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5011.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5013.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5014.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5015.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5017.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5019.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5021.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5023.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5025.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5027.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5029.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5030.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5032.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5033.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5035.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5037.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5038.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5040.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5042.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5043.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5044.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5046.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5047.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5048.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5049.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5051.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5053.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5055.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5057.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5059.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5060.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5062.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5063.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5065.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5067.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5068.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5070.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5071.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5073.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5075.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5077.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5079.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5081.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5083.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5085.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5086.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5087.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5089.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5091.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5093.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5094.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5095.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5097.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5098.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5100.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5102.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5104.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5105.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5106.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5107.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5109.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5110.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5111.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5112.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5114.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5115.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5116.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5117.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5118.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5119.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5121.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5122.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5123.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5125.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5127.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5128.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5129.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5130.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5131.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5133.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5134.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5136.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5137.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5138.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5139.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5140.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5141.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5142.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5143.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5144.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5146.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5148.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5150.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5152.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5153.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5155.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5156.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5157.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5158.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5160.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5162.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5164.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5165.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5166.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5168.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5170.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5171.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5173.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5174.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5175.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5176.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5177.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5178.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5180.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5182.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5184.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5186.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5188.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5190.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5192.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5194.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5196.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5198.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5200.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5201.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5202.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5204.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5205.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5206.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5208.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5209.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5210.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5211.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5213.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5215.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5216.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5217.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5218.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5219.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5220.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5221.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5223.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5224.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5225.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5226.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5228.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5230.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5232.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5233.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5234.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5236.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5238.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5239.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5240.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5242.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5243.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5245.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5247.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5249.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5250.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5252.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5253.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5255.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5256.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5257.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5259.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5260.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5262.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5264.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5265.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5267.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5269.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5270.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5271.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5272.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5273.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5274.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5275.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5276.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5277.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5278.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5280.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5282.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5283.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5285.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5287.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5289.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5291.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5292.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5294.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5296.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5297.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5299.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5301.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5302.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5304.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5305.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5307.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5309.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5310.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5311.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5313.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5315.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5316.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5317.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5319.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5320.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5321.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5323.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5325.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5326.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5328.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5329.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5330.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5332.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5333.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5335.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5337.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5339.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5341.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5343.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5345.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5347.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5348.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5350.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5352.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5354.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5356.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5358.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5359.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5360.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5361.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5363.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5364.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5365.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5367.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5369.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5371.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5372.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5374.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5376.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5377.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5379.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5380.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5381.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5383.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5385.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5387.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5388.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5390.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5391.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5392.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5394.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5396.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5398.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5399.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5401.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5403.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5404.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5406.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5408.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5409.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5410.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5412.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5414.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5415.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5417.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5419.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5420.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5422.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5424.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5425.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5426.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5428.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5429.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5431.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5433.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5434.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5436.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5438.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5439.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5441.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5443.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5444.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5445.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5446.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5447.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5449.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5451.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5453.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5455.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5456.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5457.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5459.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5461.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5462.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5463.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5464.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5466.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5467.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5469.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5471.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5473.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5475.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5476.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5478.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5480.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5482.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5484.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5485.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5487.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5488.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5489.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5490.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5491.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5492.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5494.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5496.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5497.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5499.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5500.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5501.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5502.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5503.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5504.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5505.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5507.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5508.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5510.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5512.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5513.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5515.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5516.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5517.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5518.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5519.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5521.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5522.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5524.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5525.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5527.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5528.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5529.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5530.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5532.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5534.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5536.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5537.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5538.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5539.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5541.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5542.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5544.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5546.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5548.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5550.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5551.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5552.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5553.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5555.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5557.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5558.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5559.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5560.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5561.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5563.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5564.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5565.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5567.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5568.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5569.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5570.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5571.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5572.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5573.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5574.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5576.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5578.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5579.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5580.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5582.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5584.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5585.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5586.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5587.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5589.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5590.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5591.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5592.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5594.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5595.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5596.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5598.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5600.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5601.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5603.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5605.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5606.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5607.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5608.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5609.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5610.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5612.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5613.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5614.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5616.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5617.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5618.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5619.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5621.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5622.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5623.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5624.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5625.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5626.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5627.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5628.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5630.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5632.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5633.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5635.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5636.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5638.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5640.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5642.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5644.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5645.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5646.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5647.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5648.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5649.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5650.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5652.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5654.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5656.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5658.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5660.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5662.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5663.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5664.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5665.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5666.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5667.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5668.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5669.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5670.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5671.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5672.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5674.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5675.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5677.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5678.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5680.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5681.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5683.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5685.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5686.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5687.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5688.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5689.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5691.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5693.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5694.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5695.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5696.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5697.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5699.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5701.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5703.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5704.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5705.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5706.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5707.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5708.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5710.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5712.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5714.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5715.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5717.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5719.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5721.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5722.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5724.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5725.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5727.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5728.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5730.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5732.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5733.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5735.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5737.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5738.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5740.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5741.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5742.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5744.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5746.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5748.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5750.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5752.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5754.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5755.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5756.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5757.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5758.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5759.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5760.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5762.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5764.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5766.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5767.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5768.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5769.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5770.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5771.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5772.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5774.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5775.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5776.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5778.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5779.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5780.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5782.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5783.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5785.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5787.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5789.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5791.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5793.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5794.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5796.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5798.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5799.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5801.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5802.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5803.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5805.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5806.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5808.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5809.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5810.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5811.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5812.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5814.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5816.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5818.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5820.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5821.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5822.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5824.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5825.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5826.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5828.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5830.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5831.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5833.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5834.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5836.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5838.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5840.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5841.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5843.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5844.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5846.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5848.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5850.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5852.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5854.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5856.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5857.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5859.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5860.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5861.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5862.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5864.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5865.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5866.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5868.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5869.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5871.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5872.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5873.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5875.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5877.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5878.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5879.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5881.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5883.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5884.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5885.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5887.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5889.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5890.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5891.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5892.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5893.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5894.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5895.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5897.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5898.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5900.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5901.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5902.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5904.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5905.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5906.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5907.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5909.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5911.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5913.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5915.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5917.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5919.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5921.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5923.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5924.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5925.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5927.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5928.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5929.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5931.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5932.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5933.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5934.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5936.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5937.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5939.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5941.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5943.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5944.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5946.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5948.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5950.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5951.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5953.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5954.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5956.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5958.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5959.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5960.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5962.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5964.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5965.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5966.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5968.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5970.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5972.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5974.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5975.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5976.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5977.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5978.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5979.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5980.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5981.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5983.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5985.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5987.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5988.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5989.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5991.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5993.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5994.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5996.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/5998.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6000.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6002.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6003.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6005.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6007.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6009.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6010.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6011.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6013.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6014.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6015.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6017.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6018.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6020.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6021.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6022.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6023.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6024.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6026.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6027.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6029.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6030.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6031.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6033.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6035.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6037.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6039.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6041.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6043.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6045.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6047.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6048.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6050.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6052.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6053.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6055.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6057.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6059.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6060.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6062.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6063.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6065.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6067.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6068.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6069.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6070.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6071.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6073.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6074.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6075.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6077.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6079.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6080.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6082.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6083.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6085.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6087.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6089.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6091.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6092.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6093.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6094.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6096.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6097.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6098.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6099.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6100.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6101.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6103.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6104.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6105.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6106.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6108.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6109.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6110.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6112.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6113.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6114.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6116.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6118.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6119.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6121.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6122.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6123.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6125.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6126.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6127.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6128.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6130.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6131.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6132.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6134.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6136.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6138.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6139.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6141.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6142.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6144.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6145.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6147.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6148.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6150.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6151.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6152.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6154.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6156.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6157.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6158.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6160.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6162.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6164.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6165.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6166.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6168.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6169.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6171.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6172.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6174.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6175.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6176.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6178.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6180.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6182.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6183.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6185.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6186.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6187.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6188.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6190.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6192.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6194.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6196.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6198.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6199.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6201.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6203.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6204.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6206.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6208.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6210.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6212.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6213.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6215.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6216.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6217.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6218.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6220.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6222.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6224.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6225.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6226.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6227.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6229.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6231.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6232.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6234.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6236.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6237.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6239.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6240.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6242.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6244.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6245.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6246.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6248.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6250.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6252.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6254.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6256.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6258.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6259.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6260.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6261.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6263.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6264.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6265.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6267.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6269.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6270.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6272.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6273.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6275.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6276.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6277.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6279.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6281.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6283.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6285.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6287.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6289.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6290.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6292.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6293.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6294.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6296.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6297.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6299.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6301.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6303.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6305.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6307.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6309.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6311.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6312.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6313.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6315.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6316.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6317.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6318.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6320.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6321.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6323.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6325.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6327.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6329.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6330.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6331.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6332.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6333.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6334.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6336.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6338.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6339.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6340.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6341.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6342.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6344.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6346.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6348.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6350.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6351.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6352.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6353.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6354.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6356.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6358.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6359.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6361.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6363.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6365.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6366.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6367.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6369.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6370.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6371.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6373.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6375.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6377.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6379.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6380.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6382.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6384.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6386.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6388.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6390.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6392.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6393.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6394.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6396.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6397.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6398.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6400.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6402.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6403.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6405.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6406.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6408.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6410.png",
+        "text": "Thermal infrared image of rock surface"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6412.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6414.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6416.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6418.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6420.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6421.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6423.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6425.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6426.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6427.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6429.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6430.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6431.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6432.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6434.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6436.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6438.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6439.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6441.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6442.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6444.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6445.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6446.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6448.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6450.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6452.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6453.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6454.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6455.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6456.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6457.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6459.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6461.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6462.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6463.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6464.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6466.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6467.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6469.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6470.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6472.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6474.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6476.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6478.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6479.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6481.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6483.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6484.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6485.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6486.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6487.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6488.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6489.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6491.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6493.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6494.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6496.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    },
+    {
+        "image": "path/to/diffusion_fine-tuning/data1/images/6497.png",
+        "text": "Thermal infrared image of rock surface with crack"
+    }
+]

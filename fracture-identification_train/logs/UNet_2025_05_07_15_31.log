@@ -1,0 +1,100 @@
+********
+epoch: 1     time: 116
+train_loss: 0.9865321773290634
+SHAPE: (640, 640)
+********
+epoch: 2     time: 248
+train_loss: 0.8769088450670243
+SHAPE: (640, 640)
+********
+epoch: 3     time: 381
+train_loss: 0.8267321499586106
+SHAPE: (640, 640)
+********
+epoch: 4     time: 513
+train_loss: 0.7952316887378693
+SHAPE: (640, 640)
+********
+epoch: 5     time: 644
+train_loss: 0.7853122155666351
+SHAPE: (640, 640)
+********
+epoch: 6     time: 776
+train_loss: 0.7663181509971618
+SHAPE: (640, 640)
+********
+epoch: 7     time: 910
+train_loss: 0.758610190808773
+SHAPE: (640, 640)
+********
+epoch: 8     time: 1044
+train_loss: 0.7482389385104179
+SHAPE: (640, 640)
+********
+epoch: 9     time: 1178
+train_loss: 0.741553187251091
+SHAPE: (640, 640)
+********
+epoch: 10     time: 1311
+train_loss: 0.7325415053367614
+SHAPE: (640, 640)
+********
+epoch: 11     time: 1443
+train_loss: 0.7295355609655381
+SHAPE: (640, 640)
+********
+epoch: 12     time: 1575
+train_loss: 0.7283088890910149
+SHAPE: (640, 640)
+********
+epoch: 13     time: 1709
+train_loss: 0.7209092735052108
+SHAPE: (640, 640)
+********
+epoch: 14     time: 1847
+train_loss: 0.7186643801927567
+SHAPE: (640, 640)
+********
+epoch: 15     time: 1984
+train_loss: 0.7176987249851227
+SHAPE: (640, 640)
+********
+epoch: 16     time: 2124
+train_loss: 0.7103718775510788
+SHAPE: (640, 640)
+********
+epoch: 17     time: 2263
+train_loss: 0.707408099412918
+SHAPE: (640, 640)
+********
+epoch: 18     time: 2401
+train_loss: 0.6964392988085747
+SHAPE: (640, 640)
+********
+epoch: 19     time: 2544
+train_loss: 0.7055124598741531
+SHAPE: (640, 640)
+********
+epoch: 20     time: 2676
+train_loss: 0.6998678066730499
+SHAPE: (640, 640)
+********
+epoch: 21     time: 2808
+train_loss: 0.6924723070263863
+SHAPE: (640, 640)
+********
+epoch: 22     time: 2968
+train_loss: 0.6932389430999756
+SHAPE: (640, 640)
+********
+epoch: 23     time: 3109
+train_loss: 0.6902392968535424
+SHAPE: (640, 640)
+********
+epoch: 24     time: 3247
+train_loss: 0.6825662010908127
+SHAPE: (640, 640)
+********
+epoch: 25     time: 3380
+train_loss: 0.6825833654999733
+SHAPE: (640, 640)

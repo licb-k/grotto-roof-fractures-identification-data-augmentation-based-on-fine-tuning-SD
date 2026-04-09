@@ -1,0 +1,9 @@
+********
+epoch: 1     time: 100
+train_loss: 1.090098392188549
+SHAPE: (640, 640)
+********
+epoch: 2     time: 200
+train_loss: 0.8744936794042587
+SHAPE: (640, 640)
+Finish!
