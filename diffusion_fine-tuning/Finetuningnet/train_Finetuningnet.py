@@ -86,7 +86,6 @@ def parse_args():
     parser.add_argument("--max_train_samples", type=int, default=None)
     parser.add_argument("--proportion_empty_prompts", type=float, default=0.0)
 
-    # 这里只保留文本验证提示，不再要求 validation_image
     parser.add_argument("--validation_prompt", type=str, default=None)
 
     args = parser.parse_args()
@@ -222,7 +221,6 @@ def main(args):
         args.pretrained_model_name_or_path, subfolder="unet", revision=args.revision, variant=args.variant
     )
 
-    # 你的自定义模型：去掉 conditioning 输入后的版本
     logger.info("Initializing FinetuningNet from unet")
     tuningnet = FinetuningnetModel.from_unet(unet)
 
@@ -325,7 +323,6 @@ def main(args):
 
                 encoder_hidden_states = text_encoder(batch["input_ids"], return_dict=False)[0]
 
-                # 关键修改：不再传 controlnet_cond
                 down_block_res_samples, mid_block_res_sample = tuningnet(
                     noisy_latents,
                     timesteps,
@@ -380,7 +377,7 @@ def main(args):
 
     if accelerator.is_main_process:
         unwrapped_tuningnet = accelerator.unwrap_model(tuningnet)
-        # 如果你的自定义模型兼容 diffusers，可用 save_pretrained
+
         if hasattr(unwrapped_tuningnet, "save_pretrained"):
             unwrapped_tuningnet.save_pretrained(args.output_dir)
         else:
