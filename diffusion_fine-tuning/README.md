@@ -1,4 +1,4 @@
-#Fine-tuning Stable Diffusion model (Finetuningnet)
+# Fine-tuning Stable Diffusion model (Finetuningnet)
 
 Finetuningnet is a fine-tuning framework developed for training, inference, and evaluation on specific datasets.  
 The file structure and part of the code are modified from the [diffusers](https://github.com/huggingface/diffusers/tree/main) project, with additional adjustments and extensions made to meet the requirements of this project.
